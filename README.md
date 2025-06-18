@@ -3,8 +3,8 @@
 ### *Master Student*
 
 Master of Engineering in Electronic Information Engineering  
-Institute of Artificial Intelligence
-Beihang University | Beijing, China  
+Institute of Artificial Intelligence   
+Beihang University   | Beijing, China  
 Sep 2024 - Jun 2027 (expect)   
 
 ---
