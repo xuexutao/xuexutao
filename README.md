@@ -2,7 +2,7 @@
 
 ### *Master Student*
 
-Master of Engineering in Electronic Information Engineering  
+Master of Engineering in Electronic Information  
 Institute of Artificial Intelligence   
 Beihang University   | Beijing, China  
 Sep 2024 - Jun 2027 (expect)   
@@ -12,7 +12,7 @@ Sep 2024 - Jun 2027 (expect)
 
 ## Education
 
-- 2024.09-*Present* Electronic Information Engineering, Beihang University, Master
+- 2024.09-*Present* Electronic Information, Beihang University, Master
 - 2020.09-2024.06  Big Data Management and Application, University of Science and Technology Beijing, Bachelor
 
 ## Research Interests
