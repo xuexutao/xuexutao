@@ -7,7 +7,6 @@ Institute of Artificial Intelligence
 Beihang University   | Beijing, China  
 Sep 2024 - Jun 2027 (expect)   
 
----
 
 
 ## Education
